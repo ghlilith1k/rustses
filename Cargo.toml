@@ -1,0 +1,8 @@
+[package]
+name = "rustses"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+clearscreen = "5.0.0"
+inputbot = "0.6.0"
